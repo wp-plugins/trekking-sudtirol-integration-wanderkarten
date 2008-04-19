@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Trekking Suedtirol (trekk)
-Plugin URI:http://weblog.dietmar.biz/archives/157
+Plugin URI: http://weblog.dietmar.biz/archives/157
 Description: Dieses Plugin erm&ouml;glicht die einfache Integration von S&uuml;dtiroler Wandertouren in deinen Wordpressblog. Daf&uuml;r greift das Plugin auf die Schnittstelle von www.trekking.suedtirol.info zur&uuml;ck.
 Author: Dietmar Mitterer-Zublasing
 Author URI: http://www.compusol.it/
