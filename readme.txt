@@ -16,7 +16,7 @@ Beispielseite: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-
 
 == Installation ==
 
-1. Das Plugin: Wordpress Plugin Trekking Suedtirol V1.0 hier herunterladen. 
+1. Das Plugin: Wordpress Plugin Trekking Suedtirol V1.1 herunterladen. 
 2. Die so erhaltene Zip-Datei: trekk.zip entpacken. 
 3. Nun die enthaltenen PHP-Datei trekk.php in das Wordpress Plugin Verzeichnis (/wp-content/plugins/) hochladen. 
 4. Im Administrationsbreich von Wordpress unter Plugins das Plugin Trekking Suedtirol (trekk) aktivieren. 
