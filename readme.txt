@@ -2,7 +2,7 @@
 Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, 
 Contributors: Dietmar Mitterer-Zublasing
 Requires at least: 2.5
-Tested up to: 2.5
+Tested up to: 3.3.2
 Stable tag: 1.1
 Donate link: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
