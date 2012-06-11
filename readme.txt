@@ -4,12 +4,13 @@ Contributors: Dietmar Mitterer-Zublasing
 Requires at least: 2.5
 Tested up to: 2.5
 Stable tag: 1.1
+Donate link: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
 Integration der SÃ¼dtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols in Wordpress. 
 
 == Description ==
 
-Mit diesem Plugin koennen Suedtirol Wanderkarten mit Wandertouren schnell und einfach in Wordpress integriert werden. Dabei ist es moeglich den Ausschnitt der Karte anzugeben, eine vordefinierte Wander-Tour auszuwaehlen oder eine benutzerdefinierte Wander-Tour anzugeben. Die Karte wird einschließlich eines Links zum Hoehenprofil der Wander-Tour integriert. Es ist moeglich die Abmessungen und den Textfluss der eingebunden Karte zu bestimmen.
+Mit diesem Plugin koennen Suedtirol Wanderkarten mit Wandertouren schnell und einfach in Wordpress integriert werden. Dabei ist es moeglich den Ausschnitt der Karte anzugeben, eine vordefinierte Wander-Tour auszuwaehlen oder eine benutzerdefinierte Wander-Tour anzugeben. Die Karte wird einschlieï¿½lich eines Links zum Hoehenprofil der Wander-Tour integriert. Es ist moeglich die Abmessungen und den Textfluss der eingebunden Karte zu bestimmen.
 
 Beispielseite: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
