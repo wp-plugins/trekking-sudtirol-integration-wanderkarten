@@ -13,6 +13,7 @@ Integration der Südtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols in
 Mit diesem Plugin können Südtirol Wanderkarten mit Wandertouren schnell und einfach in Wordpress integriert werden. Dabei ist es möglich den Ausschnitt der Karte anzugeben, eine vordefinierte Wander-Tour auszuwählen oder eine benutzerdefinierte Wander-Tour anzugeben. Die Karte wird einschließlich eines Links zum Höhenprofil der Wander-Tour integriert. Es ist möglich die Abmessungen und den Textfluss der eingebunden Karte zu bestimmen.
 
 Demos: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
+
 Demo 2: http://www.diewanderer.it/rundwanderung-tramin-kalterer-see-rastenbachklamm-gummererhof/ (zweite Karte!)
 
 == Installation ==
