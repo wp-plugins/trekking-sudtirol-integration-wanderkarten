@@ -1,6 +1,6 @@
 ﻿=== Trekking Sudtirol Integration Wanderkarten ===
-Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, 
-Contributors: Dietmar Mitterer-Zublasing
+Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, tour, South Tyrol, Tyrol
+Contributors: dimizu
 Requires at least: 2.5
 Tested up to: 3.3.2
 Stable tag: 1.1
