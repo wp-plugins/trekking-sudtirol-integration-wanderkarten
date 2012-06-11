@@ -1,12 +1,17 @@
 === Trekking Sudtirol Integration Wanderkarten ===
 Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, 
 Contributors: Dietmar Mitterer-Zublasing
+Requires at least: 2.5
+Tested up to: 2.5
+Stable tag: 1.1
 
-Mit diesem Plugin koennen Sie eine gesamte oder einen Ausschnitt der Suedtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols schnell und einfach in Wordpress integrieren. 
+Integration der Südtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols in Wordpress. 
 
 == Description ==
 
 Mit diesem Plugin koennen Suedtirol Wanderkarten mit Wandertouren schnell und einfach in Wordpress integriert werden. Dabei ist es moeglich den Ausschnitt der Karte anzugeben, eine vordefinierte Wander-Tour auszuwaehlen oder eine benutzerdefinierte Wander-Tour anzugeben. Die Karte wird einschließlich eines Links zum Hoehenprofil der Wander-Tour integriert. Es ist moeglich die Abmessungen und den Textfluss der eingebunden Karte zu bestimmen.
+
+Beispiel: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
 == Installation ==
 
@@ -16,6 +21,11 @@ Mit diesem Plugin koennen Suedtirol Wanderkarten mit Wandertouren schnell und ei
 4. Im Administrationsbreich von Wordpress unter Plugins das Plugin Trekking Suedtirol (trekk) aktivieren. 
 5. Zu Einstellungen > Trekking Suedtirol wechseln und dort die Benutzer ID zum Einbinden der Suedtirol Karte, die Standard Bereite und Standard Hoehe der Suedtirol Karte eingeben. Wie du zu eine Benutzer ID zum Einbinden der Suedtirol Karte kommst, kannst du unter Integration digitales Wandernetz Suedtirol in eigene Website nachlesen. 
 6. Die eingegeben Parameter speichern. Das Plugin ist nun einsatzbereit. 
+
+== Changelog == 
+V1.1
+2012.06.12: Das Plugin musste angepasst werden, da Trekking Südtirol ein neues TourId Format eingeführt hat.
+
 
 == Screenshots ==
 
