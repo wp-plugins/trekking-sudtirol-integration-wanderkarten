@@ -2,7 +2,7 @@
 Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, 
 Contributors: Dietmar Mitterer-Zublasing
 Requires at least: 2.5
-Tested up to: 2.5
+Tested up to: 3.3.2
 Stable tag: 1.1
 Donate link: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
@@ -18,7 +18,7 @@ Demo 2: http://www.diewanderer.it/rundwanderung-tramin-kalterer-see-rastenbachkl
 
 == Installation ==
 
-1. Das Plugin: Wordpress Plugin Trekking Suedtirol V1.0 hier herunterladen. 
+1. Das Plugin: Wordpress Plugin Trekking Suedtirol V1.1 herunterladen. 
 2. Die so erhaltene Zip-Datei: trekk.zip entpacken. 
 3. Nun die enthaltenen PHP-Datei trekk.php in das Wordpress Plugin Verzeichnis (/wp-content/plugins/) hochladen. 
 4. Im Administrationsbreich von Wordpress unter Plugins das Plugin Trekking Suedtirol (trekk) aktivieren. 
