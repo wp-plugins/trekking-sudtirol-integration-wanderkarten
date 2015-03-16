@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Trekking Suedtirol (trekk)
-Plugin URI: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
+Plugin URI: http://weblog.dietmar.biz/archives/157
 Description: Dieses Plugin erm&ouml;glicht die einfache Integration von S&uuml;dtiroler Wandertouren in deinen Wordpressblog. Daf&uuml;r greift das Plugin auf die Schnittstelle von trekking.suedtirol.info zur&uuml;ck.
 Author: Dietmar Mitterer-Zublasing
 Author URI: http://www.compusol.it/
-Version: 1.1
+Version: 2.0
 License: This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
 Copyright 2008 Compusol des P.I. Mitterer-Zublasing Dietmar
@@ -63,8 +63,8 @@ function trekkContent($inhalt)
 					break;	
 				case 'tour':
 					$link = '<span class="trekk" style="float:'.$Umbruchart.';margin:5px;">'
-							. '<iframe src="http://www.trekking.suedtirol.info/extern/atlas.php?id='.$Benutzer_Id.'&lang='.$Sprache.'&tourId2='.$TourId.'" name="trekking_atlas" marginwidth="0" marginheight="0" frameborder="0" width="'.$Breite.'" height="'.$Hoehe.'" scrolling="no" hspace="0" vspace="0"></iframe>'
-							.'<p><a  style="cursor:pointer" onclick="Info=window.open(\'http://www.trekking.suedtirol.info/extern/tourinfo.php?id='.$Benutzer_Id.'&lang='.$Sprache.'&tourId2='.$TourId.'\', \'\',\'toolbar=0,location=0,directories=0,status=0,menubar=0, scrollbars=0, resizable=0,width=650, height=600, left=20,top=20\'); return false;">H&ouml;henprofil und Details</a><p>'
+							. '<iframe src="http://www.trekking.suedtirol.info/extern/atlas.php?id='.$Benutzer_Id.'&lang='.$Sprache.'&tourId='.$TourId.'" name="trekking_atlas" marginwidth="0" marginheight="0" frameborder="0" width="'.$Breite.'" height="'.$Hoehe.'" scrolling="no" hspace="0" vspace="0"></iframe>'
+							.'<p><a  style="cursor:pointer" onclick="Info=window.open(\'http://www.trekking.suedtirol.info/extern/tourinfo.php?id='.$Benutzer_Id.'&lang='.$Sprache.'&tourId='.$TourId.'\', \'\',\'toolbar=0,location=0,directories=0,status=0,menubar=0, scrollbars=0, resizable=0,width=650, height=600, left=20,top=20\'); return false;">H&ouml;henprofil und Details</a><p>'
 							. '</span>';
 					break;	
 				case 'mytour':

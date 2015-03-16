@@ -2,8 +2,8 @@
 Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, tour, South Tyrol, Tyrol
 Contributors: dimizu
 Requires at least: 2.5
-Tested up to: 3.3.2
-Stable tag: 1.1
+Tested up to: 4.1.1
+Stable tag: 2.0
 Donate link: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
 Integration der Südtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols in Wordpress. 
@@ -12,9 +12,7 @@ Integration der Südtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols in
 
 Mit diesem Plugin können Südtirol Wanderkarten mit Wandertouren schnell und einfach in Wordpress integriert werden. Dabei ist es möglich den Ausschnitt der Karte anzugeben, eine vordefinierte Wander-Tour auszuwählen oder eine benutzerdefinierte Wander-Tour anzugeben. Die Karte wird einschließlich eines Links zum Höhenprofil der Wander-Tour integriert. Es ist möglich die Abmessungen und den Textfluss der eingebunden Karte zu bestimmen.
 
-Demos: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
-
-Demo 2: http://www.diewanderer.it/rundwanderung-tramin-kalterer-see-rastenbachklamm-gummererhof/ (zweite Karte!)
+Beispielseite: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
 == Installation ==
 
