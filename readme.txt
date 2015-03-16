@@ -2,8 +2,8 @@
 Tags: map, hiking, trekking, Wanderkarten, Sudtirol, Suedtirol, Südtirol, trekk, wandern, Karte, Wandernetz, digitales Wandernetz, tour, South Tyrol, Tyrol
 Contributors: dimizu
 Requires at least: 2.5
-Tested up to: 3.3.2
-Stable tag: 1.1
+Tested up to: 4.1.1
+Stable tag: 2.0
 Donate link: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-suedtirol/
 
 Integration der Südtirol Wanderkarte mit dem digitalen Wandernetz Suedtirols in Wordpress. 
