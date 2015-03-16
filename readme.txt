@@ -25,6 +25,7 @@ Beispielseite: http://www.diewebmaster.it/wordpress-plugin-digitales-wandernetz-
 
 == Changelog == 
 V1.1: 2012.06.12: Das Plugin musste angepasst werden, da Trekking Südtirol ein neues TourId Format eingeführt hat.
+
 V2.0: 2015.03.16: Die Versionsnummer des Plugin musste angepasst werden, um es für Wordpress 4.1 zur Verfügung stellen zu können.
 
 == Screenshots ==
